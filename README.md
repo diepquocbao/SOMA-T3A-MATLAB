@@ -1,4 +1,5 @@
 # SOMA T3A (MATLAB version)
+<strong>Available in 03 versions: MATLAB, Python and C#</strong>
 
 An optimization algorithm - MATLAB version.
 
@@ -28,3 +29,7 @@ Q. B. Diep, "Self-Organizing Migrating Algorithm Team To Team Adaptive – SOMA 
 If you encounter any problems in executing these codes, please do not hesitate to contact me, or leave a message in the Discussion:
 
 Quoc Bao Diep (diepquocbao@gmaill.com)
+
+______________________________________________________________________
+
+_**Version 2 of the SOMA T3A will soon be available with more advantages.**_
