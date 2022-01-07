@@ -32,4 +32,4 @@ Quoc Bao Diep (diepquocbao@gmaill.com)
 
 ______________________________________________________________________
 
-_**Version 2 of the SOMA T3A will soon be available with more advantages.**_
+_**Version 2 of the SOMA T3A will be available soon with more advantages.**_
